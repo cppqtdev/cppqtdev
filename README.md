@@ -59,12 +59,13 @@
 
 
 <hr>
-<p align='center'>
-  <h4 width="33%">💬  Sometimes I like to write things here...</h4>
-  <h4 width="33%">💬  Sometimes I like to write things here...</h4>
-  <h4 width="33%">💬  Sometimes I like to write things here...</h4>
-</p>
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 <br>
 <p align="right">
