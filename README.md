@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://twitter.com/divyadesh_777/header_photo" /></a>
+  <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://avatars.githubusercontent.com/u/108173159?s=400&u=7aa6f3cded4e1eceabae2f86c27aeeb3931538b4&v=4" /></a>
 </p>
 
 
