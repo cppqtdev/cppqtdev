@@ -1,20 +1,20 @@
 <h1 align='center'> Hi there 👋, I'm Aksh Singh  👩‍💻 </h1>
 
 <p align='center'>
-  I live in Gurugram, India and work at <b>VVDN Technology</b> 
-</p>
-
-<p align='center'>
   <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://avatars.githubusercontent.com/u/108173159?s=400&u=7aa6f3cded4e1eceabae2f86c27aeeb3931538b4&v=4" /></a>
 </p>
 
 <h3 align='center'>
-  👩‍💻 Aksh Singh 👩‍💻 </b>
+  👩‍💻 Aksh Singh 👩‍💻
 </h3>
 
 <h4 align='center'>
   Embedded Software Engineer (QT| C++)
 </h4>
+
+<h5 align='center'>
+  I live in Gurugram, India and work at <b>VVDN Technology</b> 
+</h5>
 
 
 <p align='center'>
