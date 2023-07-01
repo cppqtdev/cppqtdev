@@ -8,6 +8,11 @@
   <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://avatars.githubusercontent.com/u/108173159?s=400&u=7aa6f3cded4e1eceabae2f86c27aeeb3931538b4&v=4" /></a>
 </p>
 
+<p align='center'>
+  <h2>👩‍💻 Aksh Singh 👩‍💻</h2>
+  <h3>Embedded Software Engineer (QT| C++)</h3>
+</p>
+
 
 <p align='center'>
   <a href="https://twitter.com/divyadesh_777"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
