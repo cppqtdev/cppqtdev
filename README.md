@@ -9,8 +9,7 @@
 </p>
 
 <p align='center'>
-  👩‍💻 Aksh Singh 👩‍💻</b> 
-  Embedded Software Engineer (QT| C++)
+  Aksh Singh [ Embedded Software Engineer (QT| C++) ]
 </p>
 
 
