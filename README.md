@@ -59,13 +59,15 @@
 
 
 <hr>
-
+<h5 align='center'>
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+</h5>
 
 <br>
 <p align="right">
