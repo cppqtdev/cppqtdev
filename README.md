@@ -62,10 +62,11 @@
 
 | Programming Languages | Tools & IDEs | Development Skills |
 | :---                  |     :---:    |          ---:      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| C Programming   |  Qt Creator     | C / C++, Python3, Qt Quick, Qt QML    |
+| C++ Programming    | Git       | Qt Quick Application Development     |
+| Python Programming  | Jire ,Gitlab ,Bitbucket     | Boot2Qt for Qt Device Creation (Embedded Devices)
+    |
+|  Qt QML Application Development     | Linux Os       | Internet of Things      |
 
 <br>
 <p align="right">
