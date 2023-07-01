@@ -9,8 +9,8 @@
 </p>
 
 <p align='center'>
-  <h2>👩‍💻 Aksh Singh 👩‍💻</h2>
-  <h3>Embedded Software Engineer (QT| C++)</h3>
+  👩‍💻 Aksh Singh 👩‍💻</b> 
+  Embedded Software Engineer (QT| C++)
 </p>
 
 
