@@ -59,6 +59,12 @@
 
 
 <hr>
+<p align='center'>
+  <h4 width="33%">💬  Sometimes I like to write things here...</h4>
+  <h4 width="33%">💬  Sometimes I like to write things here...</h4>
+  <h4 width="33%">💬  Sometimes I like to write things here...</h4>
+</p>
+
 
 <br>
 <p align="right">
