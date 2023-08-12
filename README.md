@@ -73,3 +73,11 @@
 </p>
 
 
+# Awesome Projects
+## Demo Screen 1
+![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/1.png)
+## Demo Screen 2
+![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/2.png)
+## Demo Screen 3
+![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/3.png)
+
