@@ -74,10 +74,36 @@
 
 
 # Awesome Projects
-## Demo Screen 1
+
+# Project 1
+## Some Demo Screens
 ![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/1.png)
-## Demo Screen 2
 ![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/2.png)
-## Demo Screen 3
 ![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/3.png)
+
+# Project 2
+## Demo Screen 1
+![Car Gauge](https://github.com/cppqtdev/Racing-Car-Dashboard/blob/main/Screenshots/Code_Screen.png)
+![Car Gauge](https://github.com/cppqtdev/Car-Dashboard-2/blob/main/screenshots/Screenshot%202023-08-12%20141221.png)
+
+
+# Project 3
+## Some Demo Screens
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/homwWithSettings.png?raw=true)
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/General.png?raw=true)
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/appearance.png?raw=true)
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/Security.png?raw=true)
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/Privacy.png?raw=true)
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/Browser.png?raw=true)
+![alt text](https://github.com/cppqtdev/1Password-UI-Qt-QML/blob/master/Screenshots/advanced.png?raw=true)
+
+
+# Projects 4
+## Some Demo Screens
+![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra2.png?raw=true)
+![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra3.png?raw=true)
+![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra4.png?raw=true)
+![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra5.png?raw=true)
+![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra6.png?raw=true)
+![alt text](https://github.com/cppqtdev/Jabra-Speaker-Connect-Project/blob/main/Assets/ScreenShots/jabra7.png?raw=true)
 
