@@ -74,6 +74,9 @@
 
 
 # Awesome Projects
+# Car Gauge
+![Car Gauge](https://github.com/cppqtdev/gauge/blob/main/screenshots/screens/Screenshot%202023-08-14%20130350.png)
+![Car Gauge](https://github.com/cppqtdev/gauge/blob/main/screenshots/screens/Screenshot%202023-08-14%20130332.png)
 
 # Project 1
 ## Some Demo Screens
