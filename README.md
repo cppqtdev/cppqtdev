@@ -3,7 +3,9 @@
 <p align='center'>
   <a href="https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif" /></a>
 </p>
-![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif)
+
+![Animated GIF](https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif)
+
 
 <h3 align='center'>
   👩‍💻 Aksh Singh 👩‍💻
