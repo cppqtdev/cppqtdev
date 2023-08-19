@@ -87,10 +87,13 @@
 ![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/screenshot/2.png)
 
 
-![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20230702.png)
 ![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20230747.png)
 ![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20230857.png)
 
+![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20230942.png)
+![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20230950.png)
+![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20231004.png)
+![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Code%20Designs/Screenshot%202023-08-19%20231022.png)
 
 # Car Gauge
 ![Car Gauge](https://github.com/cppqtdev/gauge/blob/main/screenshots/screens/Screenshot%202023-08-14%20130350.png)
