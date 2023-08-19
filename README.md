@@ -77,11 +77,11 @@
 
 # Tesla Dashboard Project 
 
-![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Screenshot%202023-08-19%20192223.png)
+## Tesla Dashboard Screen 1
+![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/screenshot/1.png)
 
-![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Screenshot%202023-08-19%20201407.png)
-
-![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/Tesla_UI_Designs/Screenshot%202023-08-19%20202055.png)
+## Tesla Dashboard Screen 2
+![Dashboard Tesla](https://github.com/cppqtdev/Tesla/blob/main/screenshot/2.png)
 
 # Car Gauge
 ![Car Gauge](https://github.com/cppqtdev/gauge/blob/main/screenshots/screens/Screenshot%202023-08-14%20130350.png)
