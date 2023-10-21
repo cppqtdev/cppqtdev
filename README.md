@@ -77,6 +77,8 @@
 
 
 # Awesome Projects
+#Dashboard Upcomming Project
+![Adesh Singh](https://github.com/cppqtdev/Desktop-Project-/blob/main/screenshots/Home.png?raw=true)
 
 # Tesla Dashboard Project 
 
