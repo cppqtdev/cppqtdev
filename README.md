@@ -4,7 +4,7 @@
   <a href="https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif" /></a>
 </p>
 
-![Animated GIF](https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif)
+![1](https://github.com/cppqtdev/cppqtdev/assets/108173159/ae8d0841-0595-42b9-a872-7d4a7eaf61fe)
 
 
 <h3 align='center'>
