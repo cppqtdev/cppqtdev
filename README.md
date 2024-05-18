@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Aksh Singh  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Aksh Singh  🧑 </h1>
 
 <p align='center'>
   <a href="https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif" /></a>
@@ -8,23 +8,22 @@
 
 
 <h3 align='center'>
-  👩‍💻 Aksh Singh 👩‍💻
+  🧑 Adesh Singh 🧑
 </h3>
 
 <h4 align='center'>
-  Embedded Software Engineer (QT| C++)
+  Embedded Software Developer (C | C++ | QT QML | Qt5 | Qt6 | Qt for MCU | Qt for HMI | Qt for Desktop | Boot2Qt | Yocto Project | IOT )
 </h4>
 
 <h5 align='center'>
-  I live in Gurugram, India and work at <b>VVDN Technology</b> 
+  I live in Gurugram, India and work at <b>TechCoderHub</b> 
 </h5>
 
 
 <p align='center'>
   <a href="https://twitter.com/divyadesh_777"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aksh-singh-0808bb220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:akshworkamil@gmail.com?subject= Hi Aksh Singh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://www.linkedin.com/company/techcoderhub"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adeshworkamil@gmail.com?subject= Hi Aksh Singh"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
