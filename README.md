@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Aksh Singh  🧑 </h1>
+<h1 align='center'> Hi there 👋, I'm Adesh Singh  👨‍💻 </h1>
 
 <p align='center'>
   <a href="https://github.com/cppqtdev/Tesla/blob/main/screenshot/gitImage_developer.gif" /></a>
@@ -8,7 +8,7 @@
 
 
 <h3 align='center'>
-  🧑 Adesh Singh 🧑
+  👨‍💻 Adesh Singh 👨‍💻
 </h3>
 
 <h4 align='center'>
