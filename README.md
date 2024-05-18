@@ -78,9 +78,9 @@
 # Sport Car Cluster Click To Watch Full Video on Youtube : 
 [![Youtube Video ](https://github.com/cppqtdev/Sport-Car-Instrumental-Cluster/blob/main/screenshot/1.png)](https://www.youtube.com/watch?v=4SvY2B0_JhE&t=23s)
 # Home Automation
-![Home Screen ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen.png)
-![Home Screen 2 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-2.png)
-![Home Screen 3 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-3.png)
+[![Home Screen ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen.png)](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
+[![Home Screen 2 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-2.png)](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
+[![Home Screen 3 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-3.png)](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
 # Eagle Scooty Dashboard 
 ## Eagle Scooty  Light and Dark Theme Dashboard written in QT QML With Figma Designs
 
