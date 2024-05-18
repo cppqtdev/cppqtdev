@@ -81,6 +81,15 @@
 [![Home Screen ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen.png)](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
 [![Home Screen 2 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-2.png)](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
 [![Home Screen 3 ](https://github.com/cppqtdev/QT-Modern-Home-Automation/blob/main/screenshots/Home-Screen-3.png)](https://www.youtube.com/watch?v=CAEyq1-oNPI&t=12s)
+
+# Home Automation Glass UI
+
+![Home Automation glass UI](https://github.com/cppqtdev/QT-Home-Automation-Glass-UI/blob/main/screenshots/Home.png)
+![Home Automation glass UI](https://github.com/cppqtdev/QT-Home-Automation-Glass-UI/blob/main/screenshots/Living.png)
+![Home Automation glass UI](https://github.com/cppqtdev/QT-Home-Automation-Glass-UI/blob/main/screenshots/settings-1.png)
+![Home Automation glass UI](https://github.com/cppqtdev/QT-Home-Automation-Glass-UI/blob/main/screenshots/settings-2.png)
+![Home Automation glass UI](https://github.com/cppqtdev/QT-Home-Automation-Glass-UI/blob/main/screenshots/settings-3.png)
+
 # Eagle Scooty Dashboard 
 ## Eagle Scooty  Light and Dark Theme Dashboard written in QT QML With Figma Designs
 
