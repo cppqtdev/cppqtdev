@@ -74,6 +74,16 @@
  <h5 align="right">🎮 To have fun and spend time...</h5>
 </p>
 
+# Tesla New Dashboard 
+
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/Main%20Menu.png)
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/1.png)
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/2.png)
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/3.png)
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/4.png?raw=true)
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/5.png)
+![Tesla Home Screen](https://github.com/cppqtdev/Tesla-Dashboard-UI-3/blob/main/screenshot/6.png)
+
 # Sport Car Cluster Click To Watch Full Video on Youtube : 
 [![Youtube Video ](https://github.com/cppqtdev/Sport-Car-Instrumental-Cluster/blob/main/screenshot/1.png)](https://www.youtube.com/watch?v=4SvY2B0_JhE&t=23s)
 # Home Automation
