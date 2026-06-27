@@ -79,6 +79,85 @@ We work with startups, product teams, and engineering groups who need practical 
 
 ## Our Work
 
+### Professional Vehicle Dashboard
+Production-grade automotive instrument cluster and infotainment dashboard built with Qt/QML — featuring real-time gauges, navigation, media controls, vehicle diagnostics, and multi-screen layouts.
+
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_1.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_2.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_3.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_4.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_5.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_6.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_7.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_8.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_9.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_10.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_11.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_12.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_13.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_14.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_15.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_16.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_17.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_18.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_19.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_20.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_21.png?raw=true)
+![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_22.png?raw=true)
+
+---
+
+### Smart Ventilator — Respiratory Monitoring UI
+Medical-grade ventilator interface built with Qt/QML — featuring real-time waveform monitoring, patient vitals, alarm management, and ventilation mode controls for ICU and clinical environments.
+
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/1.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/2.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/3.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/4.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/5.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/6.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/7.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/8.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/9.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/10.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/11.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/12.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/13.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/14.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/15.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/16.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/17.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/18.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/19.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/20.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/21.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/22.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/23.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/24.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/25.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/26.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/27.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/28.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/29.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/30.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/31.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/32.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/33.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/34.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/35.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/36.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/37.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/38.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/39.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/40.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/41.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/42.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/43.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/44.png?raw=true)
+![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/45.png?raw=true)
+
+---
+
 ### Automotive HMI — Tesla-Style Dashboard
 Full-featured car infotainment system built with Qt/QML featuring navigation, media, climate controls, and vehicle status.
 
