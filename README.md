@@ -80,7 +80,7 @@ We work with startups, product teams, and engineering groups who need practical 
 ## Our Work
 
 ### Professional Vehicle Dashboard
-Production-grade automotive instrument cluster and infotainment dashboard built with Qt/QML — featuring real-time gauges, navigation, media controls, vehicle diagnostics, and multi-screen layouts.
+Themeable automotive instrument cluster and infotainment dashboard built with Qt 6 / QML — featuring real-time gauges, navigation, media controls, vehicle diagnostics, and multi-screen layouts.
 
 ![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_1.png?raw=true)
 ![Professional Vehicle Dashboard](https://github.com/cppqtdev/professional-vehicle-dashboard/blob/main/screenshots/car_2.png?raw=true)
@@ -108,7 +108,7 @@ Production-grade automotive instrument cluster and infotainment dashboard built 
 ---
 
 ### Smart Ventilator — Respiratory Monitoring UI
-Medical-grade ventilator interface built with Qt/QML — featuring real-time waveform monitoring, patient vitals, alarm management, and ventilation mode controls for ICU and clinical environments.
+ICU ventilator UI concept built with Qt 6.8 / QML — featuring real-time waveform monitoring, patient vitals, alarm management, and ventilation mode controls, with a C++ backend.
 
 ![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/1.png?raw=true)
 ![Smart Ventilator UI](https://github.com/cppqtdev/Smart-Ventilator-Respiratory-Monitoring-UI/blob/main/screenshots/2.png?raw=true)
